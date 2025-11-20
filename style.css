@@ -7,7 +7,7 @@ body {
 
 /* ---------- FUNDO DA PÁGINA ---------- */
 body.login-body {
-    background: url('img/fundo.jpg') no-repeat center center fixed;
+    background-image: url('/login-app/img/fundo.jpg');
     background-size: cover;
     height: 100vh;
 }
@@ -140,3 +140,4 @@ input {
 .login-info a:hover {
     text-decoration: underline;
 }
+
